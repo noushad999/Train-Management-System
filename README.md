@@ -120,3 +120,7 @@ Below are some of the key SQL queries for interacting with the database.
 
 ## Conclusion
 The Train Management System efficiently handles information related to train operations, passenger details, and train delays, providing a comprehensive overview of the operations for effective management.
+
+
+![Train Management System](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2V5NGFmM3FxY2xyZW8ycmt6cmZ2djE4YmZsbzI1bHhsMDBmMW45OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pglQIJTs40YcE/giphy.gif)
+
