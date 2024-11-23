@@ -1,6 +1,6 @@
 # Train Management System
 
-![Train Management System](https://media.giphy.com/media/xT0GqGHG6HSoEK5je0/giphy.gif)
+![Train Management System](https://media.giphy.com/media/9fclu64Xq0guY/giphy.gif?cid=ecf05e47t0pelj18nh7evgrzocijqljhdopsmfmw0140bauj&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
 ## Overview
