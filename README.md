@@ -1,5 +1,8 @@
 # Train Management System
 
+![Train Management System](https://media.giphy.com/media/xT0GqGHG6HSoEK5je0/giphy.gif)
+
+
 ## Overview
 The **Train Management System** is a database project designed to manage information related to train stations, trains, passengers, ticket bookings, delays, and employees. The system allows for tracking train schedules, passenger details, and train delays, while also offering alternative paths for delayed trains and managing employee data.
 
