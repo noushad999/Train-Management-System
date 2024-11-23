@@ -83,7 +83,7 @@ Below are some of the key SQL queries for interacting with the database.
 
 3. **List all passengers with their associated train details:**
     ```sql
-    SELECT P.PassengerID, P.PName, P.Age, P.Gender, P.Email, P.PhoneNumber, T.TrainName
+    SELECT P.PassengerID, P.FirstName, P.Age, P.Gender, P.Email, P.PhoneNumber, T.TrainName
     FROM Passengers P
     JOIN Trains T ON P.TrainID = T.TrainID;
     ```
@@ -105,7 +105,7 @@ Below are some of the key SQL queries for interacting with the database.
 
 6. **Get the list of tickets booked by passengers for a specific train:**
     ```sql
-    SELECT P.PName, T.TrainName, TK.Fare, TK.DateOfTravel
+    SELECT P.FirstName, T.TrainName, TK.Fare, TK.DateOfTravel
     FROM Tickets TK
     JOIN Passengers P ON TK.PassengerID = P.PassengerID
     JOIN Trains T ON TK.TrainID = T.TrainID;
